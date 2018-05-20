@@ -10,6 +10,7 @@ class UsersController < ApplicationController
   # GET /users/1
   # GET /users/1.json
   def show
+    @todos = Todo.list_by_user_id(@user.id)
   end
 
   # GET /users/new
