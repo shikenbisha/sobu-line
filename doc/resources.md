@@ -7,7 +7,7 @@
 
 # Todo
 
-| ID(integer)   |   userid(integer)  |  name(string)  |  description(string) |   is_done(integer)   |
+| ID(integer)   |   userid(integer)  |  name(string)  |  description(string) |   status(integer)   |
 | ----  |  ----   | ----  | ---- | ----  |
 | 0 |  0  |  speak  |    | 0 |
 | 1 |  1  |         |    | 1 |
