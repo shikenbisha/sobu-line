@@ -9,7 +9,6 @@
 
 | ID(integer)   |   userid(integer)  |  name(string)  |  description(string) |   status(integer)   |
 | ----  |  ----   | ----  | ---- | ----  |
-| 0 |  0  |  speak  |    | 0 |
-| 1 |  1  |         |    | 1 |
-| 2 |  2  |         |    | 2 |
-
+| 0 |  0  |  speak  |  Ruby  | 0 (to do) |
+| 1 |  1  |  study  |  rails | 1 (doing) |
+| 2 |  2  |  teach  |    | 2 (done) |
